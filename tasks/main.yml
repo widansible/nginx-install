@@ -1,0 +1,5 @@
+---
+# tasks file for nginx-install
+- name: nginx install on ubuntu
+  package:
+   name: nginx
